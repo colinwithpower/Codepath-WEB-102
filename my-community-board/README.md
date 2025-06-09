@@ -33,9 +33,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Video Walkthrough](https://s5.ezgif.com/tmp/ezgif-5b021c371d7c3d.gif)
+https://s5.ezgif.com/tmp/ezgif-5b021c371d7c3d.gif
 
-GIF created with EZGIF
+GIF created with EZGIFs
 
 ## Notes
 
