@@ -33,10 +33,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://s5.ezgif.com/tmp/ezgif-5b021c371d7c3d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://s5.ezgif.com/tmp/ezgif-5b021c371d7c3d.gif)
 
-
-GIF created with Imgur
+GIF created with EZGIF
 
 ## Notes
 
