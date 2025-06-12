@@ -33,9 +33,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://imgur.com/gallery/project-1-hMLdBl4
+https://i.imgur.com/sfJkVtA.gif
 
-Video created with IMGUR
+GIF created with IMGUR
 
 ## Notes
 
