@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://i.imgur.com/ccgovyN.mp4
+<img src='https://i.imgur.com/wcvDKlO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with IMGUR
 
@@ -49,7 +49,7 @@ GIF created with IMGUR
 
 ## License
 
-    Copyright [2025] [Colin Yankang Su]
+    Copyright [2025] [Colin Yankang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
