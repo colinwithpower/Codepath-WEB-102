@@ -41,9 +41,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://i.imgur.com/wcvDKlO.gif
+https://d8l68e4ijccbk.cloudfront.net/t294sl%2Fpreview%2F68200857%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1750216291&Signature=FfUdYmXArQgydyQyiJnTdZakxqQMg4s6O2XQrp7h8ZGfsF0jCqstgZzmzGVrfQvs5~8w1sTFyQrLK3~weGN3-veFDKh~Um4iqAYLJnYP2xu5VDxyrt~ptG1O3MJXrpNGr7NSSWIHdWqRWxpN6MfmQDR7TH-CSTwqTISCynUbCpnPL0kDHgFrxkla~8rrysFhzQ7GVL0-SUfFo685Mzso9Nt1Phx7oKWl4EGYG3aDjYcVzg4VrW6QWmadSkCTEJCoX7jA2J6whequRR4pkN4d0WCb4ZAcQHv1rdiSLrxLsZTQF0zUlq8bkC2boldECTCcuGjzNNAEQpjJ8jdc0b0Ilw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ
 
-GIF created with IMGUR
 
 
 
