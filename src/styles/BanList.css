@@ -1,0 +1,45 @@
+.ban-list {
+  background: #f3f3f3;
+  border-radius: 10px;
+  padding: 16px;
+  margin: 24px 0 0 0;
+  text-align: left;
+}
+
+.ban-list h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+  color: #444;
+}
+
+.ban-group {
+  margin-bottom: 8px;
+}
+
+.ban-type {
+  font-weight: 600;
+  margin-right: 8px;
+  color: #555;
+}
+
+.ban-btn {
+  background: #e57373;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin: 0 6px 6px 0;
+  padding: 4px 10px;
+  font-size: 0.98rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.ban-btn:hover {
+  background: #c0392b;
+}
+
+.ban-empty {
+  color: #888;
+  font-size: 0.98rem;
+  margin-top: 8px;
+}

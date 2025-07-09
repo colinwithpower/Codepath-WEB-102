@@ -1,0 +1,19 @@
+.discover-btn {
+  background: #ffd166;
+  color: #222;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 32px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 18px 0 10px 0;
+  cursor: pointer;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+  transition: background 0.2s, color 0.2s;
+}
+
+.discover-btn:disabled {
+  background: #ffe9a7;
+  color: #aaa;
+  cursor: not-allowed;
+}
