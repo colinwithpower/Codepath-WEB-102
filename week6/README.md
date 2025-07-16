@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://i.ibb.co/dsHC2mL3/IMB-ewoj-TO.gif
+https://i.ibb.co/PsM19P4M/IMB-r-QLmdp.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 
