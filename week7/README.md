@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://i.ibb.co/dy3XYFD/IMB-EZcsnj.gif
+https://i.ibb.co/8gp73RcG/tAO1hH-t.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 \
