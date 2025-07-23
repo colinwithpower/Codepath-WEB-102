@@ -1,0 +1,25 @@
+.dashboard {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.dashboard-summary, .dashboard-search, .dashboard-filter {
+  margin-bottom: 1rem;
+}
+.dashboard-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.cat-card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  padding: 1rem;
+  width: 200px;
+  text-align: center;
+}
+.cat-card img {
+  border-radius: 4px;
+  max-width: 100%;
+  height: auto;
+} 
