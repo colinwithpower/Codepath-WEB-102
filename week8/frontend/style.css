@@ -1,0 +1,149 @@
+/* Reset and base styles */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Nav styling */
+  nav {
+    background-color: #222;
+    padding: 10px;
+    text-align: center;
+  }
+
+  p {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Centered container for pages like create, edit, detail */
+  .container {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Center headers */
+  h1, h2 {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  /* Form styling */
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  form label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 6px;
+  }
+  
+  form input,
+  form select,
+  form button {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 10px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Headwear options */
+  .headwear-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .headwear-options label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .headwear-options img {
+    width: 60px;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 4px;
+  }
+  
+  /* Gallery cards */
+  #gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .card {
+    background-color: white;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  .card img {
+    margin-top: 10px;
+    border-radius: 4px;
+    width: 60px;
+    height: auto;
+  }
+  
+  /* Detail page content */
+  #detail {
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 18px;
+  }
+  
